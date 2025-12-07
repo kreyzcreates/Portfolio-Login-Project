@@ -360,3 +360,14 @@ input:focus {
     cursor: pointer;
     text-shadow: 0 0 10px red;
 }
+
+.instruction-text {
+    font-size: 18px;
+    font-weight: bold;
+    color: #ff0000; /* Red text color */
+    text-align: center;
+    margin-bottom: 20px;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 10px;
+    border-radius: 5px;
+}
